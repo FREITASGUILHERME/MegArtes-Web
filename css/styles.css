@@ -1,64 +1,64 @@
-/*estilo geral*/
-
-body {
-    font-family: 'Roboto', 'sans-serif';
-}
-
-.row {
-    margin: 0;
-}
-
-.container {
-    padding: 700px 0;
-}
-
-p,
-li {
-    color: #000000;
-    font-size: 14px;
-}
-
-
-/*barra de navegação*/
-
-header,
-.navbar {
-    background-color: #BA13C2;
-}
-
-#nav-container {
-    padding-top: 0;
-    padding-bottom: 0;
-}
-
-#logo {
-    width: 190px;
-}
-
-.navbar-brend {
-    padding: 0;
-    color: #FFFF;
-}
-
-.navbar-brand:hover {
-    color: #FFFF;
-}
-
-#navbar-link a {
-    color: #FFFF;
-}
-
-.navbar-expand-lg .navbar-nav .nav-link {
-    padding: 1rem .8rem;
-}
-
-body,
-header,
-div,
-nav,
-div,
-div,
-a {
-    color: #FFFF;
-    transition-duration: 1s;
-}
+    /*estilo geral*/
+    
+    body {
+        font-family: 'Roboto', 'sans-serif';
+        background-color: rgb(255, 255, 255);
+    }
+    
+    .row {
+        margin: 15px;
+        margin-bottom: 15px;
+    }
+    
+    .container {
+        padding: 700px 0;
+    }
+    
+    p,
+    li {
+        color: #000000;
+        font-size: 14px;
+    }
+    /*barra de navegação*/
+    
+    header,
+    .navbar {
+        background-color: #BA13C2;
+    }
+    
+    #nav-container {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    
+    #logo {
+        width: 190px;
+    }
+    
+    .navbar-brend {
+        padding: 0;
+        color: #FFFF;
+    }
+    
+    .navbar-brand:hover {
+        color: #FFFF;
+    }
+    
+    #navbar-link a {
+        color: #FFFF;
+    }
+    
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 1rem .8rem;
+    }
+    
+    body,
+    header,
+    div,
+    nav,
+    div,
+    div,
+    a {
+        color: #FFFF;
+        transition-duration: 1s;
+    }
