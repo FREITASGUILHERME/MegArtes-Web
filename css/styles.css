@@ -70,5 +70,44 @@
     
     #mainSlider .carousel-inner,
     #mainSlider .carousel-item {
-        height: 90vh;
+        height: 95vh;
+    }
+    
+    #mainSlider .carousel-caption {
+        top: 50%;
+    }
+    
+    #mainSlider .carousel-caption h2 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    
+    #mainSlider .carousel-caption p {
+        font-size: 22px;
+        font-weight: 300;
+        margin-bottom: 100px;
+        color: #FFFF;
+    }
+    
+    .main-btn {
+        background-color: #BA13C2;
+        color: #FFFF;
+        text-transform: uppercase;
+        width: 200px;
+        height: 60px;
+        padding: 10px 20px;
+        border-radius: 30px;
+        border: 3px solid transparent;
+        transition: .5s;
+    }
+    
+    .main-btn:hover {
+        text-decoration: none;
+        color: #FFFF;
+        background-color: transparent;
+        border-color: #BA13C2;
+    }
+    
+    .carousel-indicators .active {
+        background-color: #BA13C2;
     }
