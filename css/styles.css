@@ -31,6 +31,8 @@
         padding-bottom: 0;
     }
     
+    #acesso {}
+    
     #logo {
         width: 190px;
     }
@@ -44,8 +46,8 @@
         color: #FFFF;
     }
     
-    #navbar-link a {
-        color: #FFFF;
+    #navbar-links a {
+        color: #FFF;
     }
     
     .navbar-expand-lg .navbar-nav .nav-link {
