@@ -1,8 +1,16 @@
 <html>
- <head>
-  <title>Index - PHP</title>
- </head>
- <body>
- <?php echo "<p>teste de php</p>"; ?>
- </body>
+    <head>
+        <title>
+            PHP Teste
+        </title>
+    </head>
+    <body>
+
+    <?php
+    
+        echo "<p>Olá mundo!</p>";
+    
+    ?>
+    
+    </body>
 </html>
